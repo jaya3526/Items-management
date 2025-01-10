@@ -58,4 +58,4 @@ Make sure you have [Node.js](https://nodejs.org/) and [MongoDB](https://www.mong
 
 
 UI
-![image](https://github.com/user-attachments/assets/c605f683-8197-424a-9b3c-1d1325956e4e)
+![image](https://github.com/user-attachments/assets/8998855b-5afe-4a53-b80a-3f9f7b72521f)
